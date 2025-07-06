@@ -1,3 +1,3 @@
 ### 📦 Dataset
 
-- [Download winequality-data](./winequality-data)
+- [Download winequality-data.zip](./winequality-data.zip)
